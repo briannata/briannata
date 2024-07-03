@@ -29,12 +29,13 @@ Currently seeking opportunities in Data Science or Software Engineering roles, I
 **Projects**
 
 [![My Website](https://img.shields.io/badge/-✨&nbsp;&nbsp;My&nbsp;Website-000000?style=flat)](https://briannata.github.io/)
-[![Feather](https://img.shields.io/badge/-🪶&nbsp;COVID&#8209;19&nbsp;Dashboard-000000?style=flat)](https://devpost.com/software/feather-jpfhn9)
-[![Kiwi](https://img.shields.io/badge/-🥝&nbsp;&nbsp;Summarizer-000000?style=flat)](https://devpost.com/software/kiwi-bwd17t)
-[![OTIS](https://img.shields.io/badge/-💻&nbsp;Voice&nbsp;Poker-000000?style=flat)](https://github.com/briannata/otis)
-[![Taxi Traffic](https://img.shields.io/badge/-🚕&nbsp;PokémonGo&nbsp;Map-000000?style=flat)](https://github.com/briannata/taxi-traffic)
+[![Feather](https://img.shields.io/badge/-🪶&nbsp;COVID&#8209;19&nbsp;Feather-000000?style=flat)](https://devpost.com/software/feather-jpfhn9)
+[![Kiwi](https://img.shields.io/badge/-🥝&nbsp;&nbsp;Kiwi-000000?style=flat)](https://devpost.com/software/kiwi-bwd17t)
+[![OTIS](https://img.shields.io/badge/-💻&nbsp;Voice&nbsp;OTIS-000000?style=flat)](https://github.com/briannata/otis)
+[![Taxi Traffic](https://img.shields.io/badge/-🚕&nbsp;Taxi&nbsp;Traffic-000000?style=flat)](https://github.com/briannata/taxi-traffic)
 
-[![Brianna's Github Stats](https://github-readme-stats.vercel.app/api?username=briannata)](https://github.com/anuraghazra/github-readme-stats)
+<img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=briannata&theme=vue-dark&hide_border=true' />
+<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=briannata&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
 
 
 ⭐️ From [BriannaTa](https://github.com/briannata)
