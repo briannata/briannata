@@ -35,7 +35,6 @@ Currently seeking opportunities in Data Science or Software Engineering roles, I
 [![Taxi Traffic](https://img.shields.io/badge/-🚕&nbsp;Taxi&nbsp;Traffic-000000?style=flat)](https://github.com/briannata/taxi-traffic)
 
 <img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=briannata&theme=vue-dark&hide_border=true' />
-<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=briannata&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
 
 
 ⭐️ From [BriannaTa](https://github.com/briannata)
