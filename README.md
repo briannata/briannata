@@ -1,10 +1,10 @@
 ## Hi there!
 
-👋 I’m a machine learning engineer and recent graduate of Columbia University’s MS in Data Science program. I’m passionate about building intelligent systems that turn data into real-world impact — whether through predictive modeling, automation, or end-to-end ML solutions.
+👋 I’m a machine learning engineer and recent graduate of Columbia University’s MS in Data Science program. I’m passionate about building intelligent systems that turn data into real-world impact, whether through predictive modeling, automation, or end-to-end ML solutions.
 
-🧠 I work primarily in Python and enjoy taking projects from raw data all the way through model development, evaluation, and deployment. I’m comfortable with tools like TensorFlow, and PyTorch, and I especially enjoy the engineering side of machine learning — making models not just accurate, but usable in real-world applications.
+🧠 I work primarily in Python and enjoy taking projects from raw data through model development, evaluation, and deployment. I’m comfortable with tools like TensorFlow and PyTorch, and I especially enjoy the engineering side of machine learning. I like making models that are not just accurate, but also usable in real-world applications.
 
-💻 I also have a background in web development and hold a computer science degree from UNC Chapel Hill, which gives me a strong foundation in software engineering and full-stack development — skills I still bring into my ML work when building tools and deploying solutions.
+💻 I also have a background in web development and hold a computer science degree from UNC Chapel Hill, which gives me a strong foundation in software engineering and full-stack development. I still bring these skills into my ML work when building tools and deploying solutions.
 
 📬 I’m currently looking for full-time roles in machine learning engineering or applied data science, either remotely or in the RTP area. Feel free to connect or reach out: brianna.hy.ta@gmail.com.
 
