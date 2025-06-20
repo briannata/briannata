@@ -31,9 +31,15 @@
 **Projects**
 
 [![My Website](https://img.shields.io/badge/-✨&nbsp;&nbsp;My&nbsp;Website-000000?style=flat)](https://briannata.github.io/)
+[![TD Gen AI](https://img.shields.io/badge/-🏦&nbsp;TD&nbsp;Gen&nbsp;AI&nbsp;Advisor-000000?style=flat)](https://github.com/briannata/dsi-capstone-spring-2025-TD-gen-ai)  
+[![Forecast Retail](https://img.shields.io/badge/-📈&nbsp;Forecasting&nbsp;Online&nbsp;Retail-000000?style=flat)](https://github.com/briannata/forecasting-retail-sales)  
+[![Forecast Electricity](https://img.shields.io/badge/-⚡️&nbsp;Electricity&nbsp;Forecast&nbsp;(Portugal)-000000?style=flat)](https://github.com/briannata/forecasting-electricity-consumption)  
+[![Citi Bike](https://img.shields.io/badge/-🚲&nbsp;Citi&nbsp;Bike&nbsp;Analysis-000000?style=flat)](https://github.com/briannata/citibike-ML-analysis)  
+[![Toxicity Classifier](https://img.shields.io/badge/-🎮&nbsp;Toxicity&nbsp;Classifier-000000?style=f)]()
 [![Feather](https://img.shields.io/badge/-🪶&nbsp;Feather-000000?style=flat)](https://devpost.com/software/feather-jpfhn9)
 [![Kiwi](https://img.shields.io/badge/-🥝&nbsp;&nbsp;Kiwi-000000?style=flat)](https://devpost.com/software/kiwi-bwd17t)
 [![OTIS](https://img.shields.io/badge/-💻&nbsp;OTIS-000000?style=flat)](https://github.com/briannata/otis)
 [![Taxi Traffic](https://img.shields.io/badge/-🚕&nbsp;Taxi&nbsp;Traffic-000000?style=flat)](https://github.com/briannata/taxi-traffic)
+
 
 ⭐️ From [BriannaTa](https://github.com/briannata)
