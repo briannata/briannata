@@ -36,7 +36,4 @@
 [![OTIS](https://img.shields.io/badge/-💻&nbsp;OTIS-000000?style=flat)](https://github.com/briannata/otis)
 [![Taxi Traffic](https://img.shields.io/badge/-🚕&nbsp;Taxi&nbsp;Traffic-000000?style=flat)](https://github.com/briannata/taxi-traffic)
 
-<img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=briannata&theme=vue-dark&hide_border=true' />
-
-
 ⭐️ From [BriannaTa](https://github.com/briannata)
