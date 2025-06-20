@@ -27,6 +27,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=Angular&logoColor=b52e31)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pytorch&logoColor=EE4C2C)
 
 **Projects**
 
