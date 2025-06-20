@@ -6,7 +6,7 @@
 
 💻 I also have a background in web development and hold a computer science degree from UNC Chapel Hill, which gives me a strong foundation in software engineering and full-stack development. I still bring these skills into my ML work when building tools and deploying solutions.
 
-📬 I’m currently looking for full-time roles in machine learning engineering or applied data science, either remotely or in the RTP area. Feel free to connect or reach out: brianna.hy.ta@gmail.com.
+📬 I’m currently looking for full-time roles in machine learning engineering or applied data science. Feel free to connect or reach out: brianna.hy.ta@gmail.com.
 
 **Languages I have used**
 
