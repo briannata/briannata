@@ -31,7 +31,7 @@
 
 **Projects**
 
-[![My Website](https://img.shields.io/badge/-✨&nbsp;&nbsp;My&nbsp;Website-000000?style=flat)](https://briannata.github.io/)
+[![My Website](https://img.shields.io/badge/-✨&nbsp;&nbsp;My&nbsp;Website-000000?style=flat)](https://briannata.framer.website/)
 [![TD Gen AI](https://img.shields.io/badge/-🏦&nbsp;TD&nbsp;Gen&nbsp;AI&nbsp;Advisor-000000?style=flat)](https://github.com/briannata/dsi-capstone-spring-2025-TD-gen-ai)  
 [![Forecast Retail](https://img.shields.io/badge/-📈&nbsp;Forecasting&nbsp;Online&nbsp;Retail-000000?style=flat)](https://github.com/briannata/forecasting-retail-sales)  
 [![Forecast Electricity](https://img.shields.io/badge/-⚡️&nbsp;Electricity&nbsp;Forecast&nbsp;(Portugal)-000000?style=flat)](https://github.com/briannata/forecasting-electricity-consumption)  
