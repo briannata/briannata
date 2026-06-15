@@ -1,46 +1,45 @@
-## Hi there!
+## Hi, I'm Brianna 👋
 
-👋 I’m a machine learning engineer and recent graduate of Columbia University’s MS in Data Science program. I’m passionate about building intelligent systems that turn data into real-world impact, whether through predictive modeling, automation, or end-to-end ML solutions.
+I build AI systems that work in production — not just in notebooks.
 
-🧠 I work primarily in Python and enjoy taking projects from raw data through model development, evaluation, and deployment. I’m comfortable with tools like TensorFlow and PyTorch, and I especially enjoy the engineering side of machine learning. I like making models that are not just accurate, but also usable in real-world applications.
+Currently a Software Engineer at IXL Learning. Previously built a 
+production RAG system for TD Bank as part of my Columbia MS in Data 
+Science, where I designed and implemented the hybrid search 
+retrieval pipeline combining dense and sparse embeddings in Pinecone.
 
-💻 I also have a background in web development and hold a computer science degree from UNC Chapel Hill, which gives me a strong foundation in software engineering and full-stack development. I still bring these skills into my ML work when building tools and deploying solutions.
+I'm most interested in the engineering and deployment side of ML — 
+getting models from prototype to something that reliably works for 
+real users.
 
-📬 I’m currently looking for full-time roles in machine learning engineering or applied data science. Feel free to connect or reach out: brianna.hy.ta@gmail.com.
+📬 brianna.hy.ta@gmail.com · [Website](https://briannata.framer.website/)
 
-**Languages I have used**
+---
 
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+**What I work with**
+
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
-
-**Some of the technologies I have worked with**
-
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-![Jira](https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=Angular&logoColor=b52e31)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pytorch&logoColor=EE4C2C)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
+
+![Pinecone](https://img.shields.io/badge/-Pinecone-000000?style=flat)
+![OpenAI](https://img.shields.io/badge/-OpenAI-000000?style=flat&logo=openai)
+![Cohere](https://img.shields.io/badge/-Cohere-000000?style=flat)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-000000?style=flat&logo=huggingface)
+![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000000?style=flat&logo=fastapi)
+![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon-aws)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
+
+---
 
 **Projects**
 
-[![My Website](https://img.shields.io/badge/-✨&nbsp;&nbsp;My&nbsp;Website-000000?style=flat)](https://briannata.framer.website/)
-[![TD Gen AI](https://img.shields.io/badge/-🏦&nbsp;TD&nbsp;Gen&nbsp;AI&nbsp;Advisor-000000?style=flat)](https://github.com/briannata/dsi-capstone-spring-2025-TD-gen-ai)  
-[![Forecast Retail](https://img.shields.io/badge/-📈&nbsp;Forecasting&nbsp;Online&nbsp;Retail-000000?style=flat)](https://github.com/briannata/forecasting-retail-sales)  
-[![Forecast Electricity](https://img.shields.io/badge/-⚡️&nbsp;Electricity&nbsp;Forecast-000000?style=flat)](https://github.com/briannata/forecasting-electricity-consumption)  
-[![Citi Bike](https://img.shields.io/badge/-🚲&nbsp;Citi&nbsp;Bike&nbsp;Analysis-000000?style=flat)](https://github.com/briannata/citibike-ML-analysis)  
-[![Toxicity Classifier](https://img.shields.io/badge/-🎮&nbsp;Toxicity&nbsp;Classifier-000000?style=f)]()
-[![Feather](https://img.shields.io/badge/-🪶&nbsp;Feather-000000?style=flat)](https://devpost.com/software/feather-jpfhn9)
-[![Kiwi](https://img.shields.io/badge/-🥝&nbsp;&nbsp;Kiwi-000000?style=flat)](https://devpost.com/software/kiwi-bwd17t)
-[![OTIS](https://img.shields.io/badge/-💻&nbsp;OTIS-000000?style=flat)](https://github.com/briannata/otis)
-[![Taxi Traffic](https://img.shields.io/badge/-🚕&nbsp;Taxi&nbsp;Traffic-000000?style=flat)](https://github.com/briannata/taxi-traffic)
+🏦 [TD Bank Generative AI Advisor](https://github.com/briannata/dsi-capstone-spring-2025-TD-gen-ai) — Production RAG system over 27 financial documents. I built the hybrid search layer (dense + sparse embeddings, alpha-weighted, Pinecone). 85% precision / 89% recall on 160-question eval set.
 
+📈 [Forecasting Online Retail Demand](https://github.com/briannata/forecasting-retail-sales) — Prophet, LSTM, DeepAR, and Temporal Fusion Transformer with Gemini 2.5 LLM embeddings on product descriptions.
 
-⭐️ From [BriannaTa](https://github.com/briannata)
+🎮 [Toxicity Classifier](https://github.com/briannata/toxicity-classifier) — BERT and GPT-2 with LoRA fine-tuning across Twitter, Twitch, Discord. AUROC: 0.9616.
+
+🧗 [Crux](https://github.com/briannata/crux-climbing-tracker) — Offline-first bouldering tracker, React Native + Supabase + custom SVG stats.
