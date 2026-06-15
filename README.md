@@ -1,13 +1,13 @@
 ## Hi, I'm Brianna 👋
 
-I build AI systems that work in production — not just in notebooks.
+I enjoy building AI systems end to end, from early prototyping through to production deployment.
 
 Currently a Software Engineer at IXL Learning. Previously built a 
 production RAG system for TD Bank as part of my Columbia MS in Data 
 Science, where I designed and implemented the hybrid search 
 retrieval pipeline combining dense and sparse embeddings in Pinecone.
 
-I'm most interested in the engineering and deployment side of ML — 
+I'm most interested in the engineering and deployment side of ML, 
 getting models from prototype to something that reliably works for 
 real users.
 
